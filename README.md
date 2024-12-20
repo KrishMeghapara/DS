@@ -29,4 +29,4 @@ Welcome to the repository that contains my academic work from **Semester 3** at 
 
 1. Clone the repository:  
    ```bash  
-   git clone 
+   git clone https://github.com/KrishMeghapara/DS.git
